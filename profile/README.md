@@ -8,8 +8,8 @@ Application open to students taking or planning to take the Advanced Quantitativ
 
 <hr>
 <p style="margin-bottom: 0;">
-  <img src="https://raw.githubusercontent.com/pqe-upf/.github/main/profile/pqe-logo.png" height="100" alt="PQE Logo" align="left">
-  <img src="https://raw.githubusercontent.com/pqe-upf/.github/main/profile/upf-logo.png" height="100" alt="UPF Logo" align="left">
+  <img src="https://raw.githubusercontent.com/pqf-upf/.github/main/profile/pqf-logo.png" height="100" alt="PQF Logo" align="left">
+  <img src="https://raw.githubusercontent.com/pqf-upf/.github/main/profile/upf-logo.png" height="100" alt="UPF Logo" align="left">
 </p>
 <br clear="all">
 
